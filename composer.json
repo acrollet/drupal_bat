@@ -1,0 +1,12 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+      "Roomify/bat": "dev-dev-separate"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Roomify/bat"
+        }
+    ]
+}
